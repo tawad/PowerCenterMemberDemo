@@ -1,0 +1,12 @@
+MEMBER_CK,Address_Status,Address_Type,Address_Line_1,Address_Line_2,Address_Line_3,Address_City,Address_State,Address_Zip,Address_County
+100001,Y,M,156 Fields Ertil Rd.,Apt. B2,,Cincinnati,OH,95471,Lucas
+100001,N,H,884 Jonson Rd.,,,Mason,OH,95475,Lucas
+100003,Y,M,11004 Ford St.,12,,Ann Arbor,MI,93311,
+100004,Y,H,847 Fountain Rd.,,,Dearborn,MI,93317,
+100004,N,H,7463 Faster Ln.,54,,Ann Arbor,MI,93311,
+100008,Y,M,3011 Hungry Man St.,,,Elk Grove,CA,16544,Sacramento
+100009,Y,H,647 Three More Left Ave.,Apt#5,,Plano,TX,54644,
+100009,N,H,151 Older St.,,,Plano,TX,54644,
+100011,Y,M,806 At Stop Sign Rd.,,,Tampa,FL,49877,
+100011,N,M,324 Donnot look back Rd.,7,,Tampa,FL,49874,
+100013,Y,M,36 Last Address Ct.,,,Fort Thomas,OH,95471,Lucas
