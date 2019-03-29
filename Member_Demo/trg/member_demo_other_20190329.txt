@@ -1,0 +1,4 @@
+#MEMBER_ID|SUBSCRIBER_ID|MEMBER_FULL_NAME|MEMBER_DOB|MEMBER_ADDR1|MEMBER_ADDR2|MEMBER_CITY|MEMBER_STATE|MEMBER_ZIP|MEMBER_COUNTY|CurrentlyProcessedFileName
+003531-00|003531-00|Lastname2,|19651121|11004 Ford St.|12|Ann Arbor|MI|93311||/home/cn180291/Informatica/Informatica_Projects/Member_Demo/src/member_table1.csv
+003411-01|003411-00|Lastname3,|19900219|3011 Hungry Man St.||Elk Grove|CA|16544|Sacramento|/home/cn180291/Informatica/Informatica_Projects/Member_Demo/src/member_table1.csv
+003541-00|003541-00|Lastname11|19720817|806 At Stop Sign Rd.||Tampa|FL|49877||/home/cn180291/Informatica/Informatica_Projects/Member_Demo/src/member_table2.csv
